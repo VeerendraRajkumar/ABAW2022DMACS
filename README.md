@@ -22,6 +22,4 @@ expression class and semi-supervised learning for the incomplete labels.
 
 <strong>Published paper </strong>: https://link.springer.com/chapter/10.1007/978-3-031-25075-0_3
 
-<strong> <em>Link to checkpoints </em></strong>
-
- https://drive.google.com/drive/folders/1YWNP6dFBvLQhZHVcr1wUgKRePv5rIMCJ?usp=sharing
+<strong> <em>Link to checkpoints </em></strong>: https://drive.google.com/drive/folders/1YWNP6dFBvLQhZHVcr1wUgKRePv5rIMCJ?usp=sharing
